@@ -2,8 +2,12 @@
 
 A new Flutter project.
 
-## Getting Started
+## Written by 
 
+Imran Latif
+
+## Getting Started
+Implement Clean arcitecture with flutter_bloc.
 This project is for evaluation.
 
 A few resources to get you started if this is your first Flutter project:
